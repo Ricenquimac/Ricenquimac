@@ -1,17 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ricardo Enrique Quirino Macin</h1>
-<h3 align="center">A passionate Data Scientist from Mexico</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=800&color=0000FF&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ricardo++Quirino+;A+passionate+Data+Scientist+;from+Mexico+to+the+world!" alt="Typing SVG" /></a></h1>
 
-- 🔭 I’m currently working on [FraudApp](https://github.com/erickelrojo22/Proyecto-Final)
 
+<div align="center">
+  </div>
+
+## About Me
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🔭 I’m currently working on [FraudApp](https://github.com/erickelrojo22/Proyecto-Final).
+- 🌱 I’m currently learning `js` and `PowerBI`
 - 🤝 I’m looking for help with **CountApp**
-
 - 📫 How to reach me **ricenquimac@gmail.com**
-
 - ⚡ Fun fact **I'm great at the kitchen**
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ricardo-enrique-quirino-macín-174277158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ricardo-enrique-quirino-macín-174277158" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ricardo-quirino-macin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ricardo-quirino-macin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
